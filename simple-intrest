@@ -1,0 +1,8 @@
+#!/bin/bash
+#Input:
+#p,principle amount
+#t, time period of years
+#r, annual rate of intrest
+
+#Output
+#simple intrest = p*t*r
